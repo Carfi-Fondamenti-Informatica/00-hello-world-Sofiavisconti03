@@ -2,5 +2,4 @@
 using namespace std;
 
 int main() {
-   return 0;
-}
+c}out<<"Hello, world">>end;
